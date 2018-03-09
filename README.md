@@ -1,1 +1,1 @@
-# Shopping_Cart_with_image
+this is nodejs Project of Shopping Cart in which are image used
